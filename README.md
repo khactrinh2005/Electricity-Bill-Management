@@ -31,7 +31,7 @@ The solution is organized into logical layers:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Electricity-Bill-Management.git](https://github.com/YOUR_USERNAME/Electricity-Bill-Management.git)
+    git clone https://github.com/YOUR_USERNAME/Electricity-Bill-Management.git
     ```
 2.  **Open the project:**
     * Launch Visual Studio.
